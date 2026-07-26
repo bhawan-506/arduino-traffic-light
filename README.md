@@ -60,5 +60,5 @@ RED - Stop
 ![Traffic Light Circuit](circuit.png)
 
 ## Author
-Bhawan Singh
+Bhawan Sharma
 B.Tech Robotics — Semester 1
